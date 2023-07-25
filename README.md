@@ -1,5 +1,9 @@
-<h2>Layout Site</h2>
+<h2>Spotify</h2>
 
-<p>Site Spotify (Exemplo de Layout)</p>
+<p>
+Apresento meu projeto de Layout de Site inspirado no Spotify, desenvolvido com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>! Neste trabalho, busquei recriar a experiência visual envolvente do Spotify, oferecendo uma interface moderna. Ao explorar minhas habilidades em desenvolvimento web <strong>front-end</strong>, Este projeto é uma amostra do meu portfólio, destacando minha empenho por criar interfaces atraentes.
+</p>
 
-https://jean-mygit.github.io/Layout_Spotify/
+<p>Projeto:</p>
+<p>https://jeandacosta.github.io/Layout_Spotify/</p>
+
